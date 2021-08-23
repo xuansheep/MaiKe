@@ -22,7 +22,7 @@
         <fastjson.version>1.2.54</fastjson.version>
         <swagger2.version>2.9.2</swagger2.version>
         <swagger.ui.version>1.9.1</swagger.ui.version>
-        <jsonp.version>1.11.3</jsonp.version>
+        <jsonp.version>1.14.2</jsonp.version>
         <jasypt.version>2.1.1</jasypt.version>
         <jodd.version>3.2.6</jodd.version>
         <aliyun.oss.version>3.4.1</aliyun.oss.version>
